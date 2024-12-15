@@ -1,0 +1,1 @@
+sumHasta(n) -> number. Returns the sum of numbers from 0 to N. For example. sumHasta(5) = 5 + 4 + 3 + 2 + 1 + 0 => 15

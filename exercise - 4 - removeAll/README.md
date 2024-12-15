@@ -1,0 +1,1 @@
+removeAll(list, element): -> list, Given a list and an element, returns another list equal to the original, but without the given "element". If the element appears multiple times, it removes it from all. Example: removeAll([1,2,3,1,6,7,1,9,1], 1) -> [2,3,6,7,9]

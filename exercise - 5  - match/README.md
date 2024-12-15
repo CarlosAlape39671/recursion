@@ -1,0 +1,1 @@
+match(one_list, other) -> list of pairs (x, y): such that "x" belongs to "one_list", e "y" belongs to "other". Example: match([1,2,3], ['a','b','c']) -> [ (1,'a'), (2,'b'), (3,'c')]
