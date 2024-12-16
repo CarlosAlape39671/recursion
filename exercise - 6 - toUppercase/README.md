@@ -1,0 +1,1 @@
+toUppercase(string) -> another string like but in caps. Remember that strings can also be treated as lists
